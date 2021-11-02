@@ -5,5 +5,4 @@ Updates made on main on GitHub before rebase.
 
 ## Purpose
 
-THis file is just a readme file
-
+This file is just a readme file
